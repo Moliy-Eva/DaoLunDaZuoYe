@@ -1,0 +1,11 @@
+<view>
+<form bindsubmit="formSubmit">
+<text>孩子年龄</text>
+<input value="{{inputText1}}" bindinput="onInputText" name="age" class="input1"></input>
+<text>孩子体质(填优/良/差）</text>
+<input value="{{inputText2}}"  bindinput="onInputText" name="ti" class="input2"></input>
+<text>孩子性别</text>
+<input value="{{inputText3}}"   bindinput="onInputText" name="sex" class="input3"></input>
+<button form-type="submit" class="sub">提交</button>
+</form>
+</view>

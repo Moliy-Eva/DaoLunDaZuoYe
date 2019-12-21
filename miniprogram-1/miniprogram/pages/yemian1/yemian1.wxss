@@ -1,0 +1,22 @@
+.input1{
+  border: 1px solid black;
+  width: 80px;
+  margin-top:5px;
+}
+.input2{
+  border: 1px solid black;
+  width: 80px;
+  margin-top:5px;
+}
+.input3{
+  border: 1px solid black;
+  width: 80px;
+  margin-top:5px;
+
+}
+.sub{
+  margin: 40px;
+}
+.ti{
+  margin-top:20px;
+}
